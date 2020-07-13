@@ -1,0 +1,109 @@
+.Header {
+   margin:auto;
+    padding: 30px;
+    text-align: center;
+    color:#6b6b6b;
+    background-color:#c7c7c7;
+    width: 95%;
+    height: 25px;
+    border: #c7c7c7;
+}
+
+.Nav {
+    margin:auto;
+    padding: 30px;
+    text-align: center;
+    color:#6b6b6b;
+    background-color:#c7c7c7;
+    width: 95%;
+    height: 25px;
+    border: #c7c7c7;
+
+}
+
+.Section {
+    position: absolute;
+    left: 14px;
+    float: left;
+    padding: 30px;
+    text-align: center;
+    color:#6b6b6b;
+    background-color:#c7c7c7;
+    width: 60%;
+    height: 300px;
+
+}
+
+.Article {
+    padding: 4px;
+    margin: auto;
+    position: relative;
+    top: 40px;
+    right: 265px;
+    width: 50%;
+    text-align: center;
+    color: rgb(228, 228, 228);
+    background-color: gray;
+    height: 200px;
+
+}
+
+.H1 {
+    padding: 17px;
+    margin: auto;
+    position: fixed;
+    top: 310px;
+    left: 255px;
+    color: black;
+    background-color: cornsilk;
+    width: 30%;
+    text-align: center;
+    height: 10px;
+
+}
+
+.p {
+    position: fixed;
+    top: 380px;
+    left: 255px;
+    margin: auto;
+    color: black;
+    background-color: cornsilk;
+    width: 30%;
+    text-align: center;
+    height: 10px;
+    padding: 17px;
+    
+}
+
+.Aside {
+    padding: 10px;
+    position: fixed;
+    top: 215px;
+    right: 16px;
+    float: right;
+    margin-right:auto ;
+    width: 30%;
+    color:#6b6b6b;
+    background-color:#c7c7c7;
+    text-align: center;
+    height: 340px;
+
+
+
+}
+
+.Footer { 
+    padding: 10px;
+    position: fixed;
+    top: 600px;
+    left: 12px;
+    float: left;
+    width: 97%;
+    color:#6b6b6b;
+    background-color:#c7c7c7;
+    text-align: center;
+    height: 70px;
+
+}
+
